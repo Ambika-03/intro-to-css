@@ -1,0 +1,24 @@
+.odd {
+    background-color: rgb(241, 132, 108);
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#two {
+    color: rgb(25, 25, 193);
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+#four {
+    font-weight: bold;
+    background-color: lightgreen;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.adjust-font-size {
+    font-size: 40px;
+}
